@@ -1,0 +1,11 @@
+# Cargo
+/target
+
+# Develop Docs
+/.docs
+
+# DS_Store
+.DS_Store
+
+# VHS
+*.tape
